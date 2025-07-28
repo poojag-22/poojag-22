@@ -13,7 +13,7 @@
 - Student Result Management System
 
 📫 Contact Me
-- ✉️ Email: your-email@example.com
+- ✉️ Email:
 - 🌐 LinkedIn:)
 
 > “Learning by doing is the best way to grow!”
